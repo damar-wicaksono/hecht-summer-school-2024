@@ -1,0 +1,1 @@
+# Summer School 2024 on Approximation Theory and Practice: Minterpy Session
